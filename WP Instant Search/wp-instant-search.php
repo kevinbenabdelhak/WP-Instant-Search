@@ -11,18 +11,14 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: wp-instant-search
 */
 
-if (!defined('ABSPATH')) {
-    exit;
-}
-
+if (!defined('ABSPATH')) {exit;}
 
 function wp_instant_search_scripts($hook) {
     if ('edit.php' !== $hook ) {
         return;
     }
-
     wp_enqueue_script('jquery');
-
+    
     $js_interne = "
     jQuery(document).ready(function($) {
         var champRecherche = $('#posts-filter input[name=\"s\"]');
