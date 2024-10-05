@@ -15,7 +15,7 @@ if (!defined('ABSPATH')) {
     exit;
 }
 
-// Enqueue jQuery and custom script
+
 function wp_instant_search_scripts($hook) {
     if ('edit.php' !== $hook ) {
         return;
