@@ -48,16 +48,9 @@ WP Instant Search est un plugin qui améliore la recherche d'articles dans le ta
 4. **Configurer le plugin :**
 
    Aucune configuration supplémentaire n'est nécessaire - le plugin fonctionne automatiquement une fois activé.
+   Je vous recommande toutefois de modifier le nombre de publication dans "option de l'écran". Le plugin permet de contourner les limites de WordPress (999 max)
+   <img src="https://kevin-benabdelhak.fr/wp-content/uploads/2024/10/Afficher-1500-publications-wordpress-admin-de-999.png">
 
-## FAQ
-
-### Comment ce plugin améliore-t-il la recherche dans WordPress ?
-
-Le plugin utilise JavaScript pour fournir une expérience de recherche instantanée, affichant uniquement les articles qui correspondent à votre recherche en temps réel.
-
-### Des réglages sont-ils nécessaires ?
-
-Pour utiliser le plugin à son plein potentiel, vous devrez augmenter manuellement le nombre de publications affichées en cliquant dans "Option d'écran" puis en modifiant le nombre à 999.
 
 ## MAJ
 
