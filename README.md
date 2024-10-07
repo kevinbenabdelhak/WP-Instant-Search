@@ -66,6 +66,9 @@ Pour utiliser le plugin à son plein potentiel, vous devrez augmenter manuelleme
 
 ## MAJ
 
+### 1.1 
+* Possibilité de mettre + de 999 publications affichées à l'écran ( pages, produits, articles)
+
 ### 1.0 
 
 * Premier lancement du plugin.
