@@ -26,13 +26,8 @@ WP Instant Search est un plugin qui améliore la recherche d'articles dans le ta
    
 2. **Filtrage Automatique** : Les publications s'affichent ou se masquent dynamiquement en fonction de votre requête de recherche.
    
-3. **Navigation Simplifiée** : Gagnez du temps en trouvant rapidement les articles souhaités parmi une grande quantité de contenus.
+3. **Afficher +999 publications** : Dans les options de l'écran, vous pouvez maintenant indiquer +999 publications ( contourne les règles de WordPress )
    
-4. **Compatibilité avec Jquery** : Utilise Jquery pour garantir une recherche fluide dans l'interface admin.
-   
-5. **Performant** : Ne nécessite pas d'actions manuelles de l'utilisateur pour mettre à jour les résultats - tout se passe en arrière-plan.
-   
-6. **Ajustement de la Sensibilité de la Recherche** : Permet une personnalisation de l'expérience utilisateur en ajustant les paramètres de recherche.
 
 ## Installation
 
