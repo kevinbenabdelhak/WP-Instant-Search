@@ -3,7 +3,7 @@
 Plugin Name: WP Instant Search
 Plugin URI: https://kevin-benabdelhak.fr/plugins/wp-instant-search/
 Description: Améliorez l'expérience de recherche dans votre tableau de bord WordPress avec une fonction de recherche instantanée.
-Version: 1.2
+Version: 1.1
 Author: Kevin Benabdelhak
 Author URI: https://kevin-benabdelhak.fr
 License: GPLv3
